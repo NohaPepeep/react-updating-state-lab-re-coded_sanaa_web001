@@ -41,10 +41,10 @@ constructor() {
     return (
       <div>
         <button className="bitrate" onClick={this.changeBir}>
-          Change bitrate
+          bitrate change 
         </button>
         <button className="resolution" onClick={this.changeReso}>
-          Change resolution
+          resolution change 
         </button>
       </div>
     );
